@@ -1,6 +1,6 @@
 # AI-Roadmap
-Basics to Advanced Learning Concepts
-
+This repository is a comprehensive roadmap for individuals interested in exploring Artificial Intelligence (AI), Machine Learning (ML), and related fields. It is structured into key topics, each containing curated resources including free courses, blogs, sample code, and additional learning materials.
+Please feel free to add more resources or suggest improvements to the existing content. Your contributions will help enhance the learning experience for everyone in the community!
 ## Topics
 
 - [Programming in Python](#programming-in-python)
