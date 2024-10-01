@@ -292,4 +292,19 @@ Basics to Advanced learning concepts
 - [Denny Britz's Reinforcement Learning Repository](https://github.com/dennybritz/reinforcement-learning)
 
 ### Generative AI and LLMs
-Content about Generative AI and LLMs
+
+#### Free Courses
+
+- [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)
+- [YouTube Video: Introduction to Generative AI](https://www.youtube.com/watch?v=mEsleV16qdo)
+- [YouTube Video: Generative AI Overview](https://www.youtube.com/watch?v=swCPic00c30)
+
+#### Blogs
+
+- [Langchain Tutorials](https://python.langchain.com/docs/tutorials/)
+- [Generative AI with Large Language Models: Part I](https://etqadkhan23.medium.com/generative-ai-with-large-language-models-part-i-c0b20ebaeb5a)
+- [Prompt Engineering Guide for Generative AI & LLMs](https://github.blog/ai-and-ml/generative-ai/prompt-engineering-guide-generative-ai-llms/)
+
+#### Sample Code Repository
+
+- [Generative AI with LLMs](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs)
