@@ -213,10 +213,34 @@ Basics to Advanced learning concepts
 - [Semi-Supervised Learning](https://www.ibm.com/topics/semi-supervised-learning)
 
 ### Deep Learning and Algorithms
-Content about Deep Learning...
+
+#### Free Courses
+
+- **Deep Learning Course: Deep Dive into Deep Learning**  
+  [Free Course](https://www.scaler.com/topics/course/deep-learning-free-course/)
+
+
+#### Blogs
+
+- [Deep Learning Overview](https://www.ibm.com/topics/deep-learning)
+- [Deep Learning Algorithms](https://theaisummer.com/Deep-Learning-Algorithms/)
+
 
 ### Tensorflow or Pytorch
-Content about TensorFlow / PyTorch...
+
+#### Free Courses
+
+- **Keras & TensorFlow for Deep Learning**  
+  [Free Course](https://www.scaler.com/topics/course/keras-tensorflow-for-deep-learning/)
+
+- **PyTorch for Deep Learning Course**  
+  [Free Course](https://www.scaler.com/topics/course/pytorch-for-deep-learning-free-course/)
+
+#### Sample Code Repositories
+
+- [TensorFlow Deep Learning Code](https://github.com/mrdbourke/tensorflow-deep-learning)
+- [PyTorch Deep Learning Code](https://github.com/mrdbourke/pytorch-deep-learning)
+
 
 ### Natural Language Processing (NLP)
 Content about Natural Language Processing...
