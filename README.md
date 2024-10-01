@@ -117,7 +117,7 @@ Basics to Advanced learning concepts
 #### Free Course
 
 - **Mathematics for Machine Learning**  
-  [Free Course](https://www.scaler.com/topics/course/mathematics-for-machine-learning-free)
+  [Free Course](https://www.scaler.com/topics/course/mathematics-for-machine-learning-free-course/)
 
 #### Blogs
 
