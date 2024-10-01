@@ -12,7 +12,7 @@ Basics to Advanced learning concepts
   - [Unsupervised Learning](#unsupervised-learning)
   - [Semi-Supervised Learning](#semi-supervised-learning)
 - [Deep Learning and Algorithms](#deep-learning-and-algorithms)
-  -  [TensorFlow / PyTorch](#tensorflow-pytorch)
+  -  [TensorFlow / PyTorch](#tensorflow-or-pytorch)
 - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
 - [Computer Vision](#computer-vision)
 - [Reinforcement Learning](#reinforcement-learning)
@@ -26,7 +26,7 @@ Content about Programming in Python...
 ### Basic Mathematics for AI
 Content about Basic Mathematics for AI...
 
-### Exploratory Data Analysis with Required Python Libraries
+### Exploratory-Data-Analysis
 Content about Exploratory Data Analysis...
 
 ### Data Visualization and Tools
@@ -47,7 +47,7 @@ Content about Semi-Supervised Learning...
 ### Deep Learning and Algorithms
 Content about Deep Learning...
 
-### TensorFlow / PyTorch
+### Tensorflow or Pytorch
 Content about TensorFlow / PyTorch...
 
 ### Natural Language Processing (NLP)
