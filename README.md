@@ -192,10 +192,25 @@ Basics to Advanced learning concepts
 - [Classification Sample Code](https://github.com/microsoft/ML-For-Beginners/tree/main/4-Classification)
 
 #### Unsupervised Learning
-Content about Unsupervised Learning...
+
+#### Free Courses
+
+- **Unsupervised Machine Learning Course**  
+  [Free Course](https://www.scaler.com/topics/course/free-unsupervised-learning-course/)
+
+#### Sample Code
+
+- [Clustering Sample Code](https://github.com/microsoft/ML-For-Beginners/tree/main/5-Clustering)
+
+#### Blog
+
+- [Unsupervised Learning Guide](https://serokell.io/blog/unsupervised-learning-guide)
 
 #### Semi-Supervised Learning
-Content about Semi-Supervised Learning...
+
+#### Blog
+
+- [Semi-Supervised Learning](https://www.ibm.com/topics/semi-supervised-learning)
 
 ### Deep Learning and Algorithms
 Content about Deep Learning...
