@@ -314,8 +314,8 @@ Basics to Advanced Learning Concepts
 
 #### Flask / FastAPI for Web API Development
 
-- [YouTube Playlist: Flask / FastAPI](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
-- [YouTube Video: Flask / FastAPI Overview](https://www.youtube.com/watch?v=7t2alSnE2-I)
+- [YouTube Playlist: Flask](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+- [YouTube Video: FastAPI](https://www.youtube.com/watch?v=7t2alSnE2-I)
 
 #### Git for Version Control
 
