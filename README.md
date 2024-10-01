@@ -150,7 +150,27 @@ Basics to Advanced learning concepts
 
 
 ### Data Visualization and Tools
-Content about Data Visualization and Tools...
+
+#### Visualization Tools
+
+- **Power BI**  
+  [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+  
+- **Tableau**  
+  [Tableau](https://www.tableau.com/)
+
+- **Open Source Tools**:
+  - [Apache Superset](https://superset.apache.org/)
+  - [Metabase](https://www.metabase.com/)
+
+#### Tutorial for Power BI
+
+- [Power BI Tutorial](https://www.youtube.com/watch?v=Dk25lwdTKow&vl=en)
+
+#### Blogs
+
+- [Power BI vs Tableau](https://www.simplilearn.com/tutorials/power-bi-tutorial/power-bi-vs-tableau)
+
 
 ### Machine Learning and Algorithms
 Content about Machine Learning and Algorithms...
