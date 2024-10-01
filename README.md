@@ -243,7 +243,21 @@ Basics to Advanced learning concepts
 
 
 ### Natural Language Processing (NLP)
-Content about Natural Language Processing...
+
+#### Free Courses
+
+- [Introduction to Natural Language Processing](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-natural-language-processing)
+
+- [YouTube Video: NLP Introduction](https://www.youtube.com/watch?v=ENLEjGozrio)
+
+#### Blogs
+
+- [NLP Tutorials: Part I - From Basics to Advance](https://www.analyticsvidhya.com/blog/2022/01/nlp-tutorials-part-i-from-basics-to-advance/)
+- [NLP Metablog: A Blog of Blogs](https://medium.com/modern-nlp/nlp-metablog-a-blog-of-blogs-693e3a8f1e0c)
+
+#### Sample Code
+
+- [NLP in Python Tutorial](https://github.com/adashofdata/nlp-in-python-tutorial)
 
 ### Computer Vision
 Content about Computer Vision...
