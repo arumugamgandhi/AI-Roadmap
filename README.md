@@ -134,7 +134,20 @@ Basics to Advanced learning concepts
 
 
 ### Exploratory-Data-Analysis
-Content about Exploratory Data Analysis...
+
+#### Free Course
+
+- **EDA and Data Visualization Course in Data Science**  
+  [Free Course](https://www.scaler.com/topics/course/eda-and-data-visualisation/)
+
+#### Sample Code
+
+- [Intro to Exploratory Data Analysis (EDA) in Python](https://www.kaggle.com/code/imoore/intro-to-exploratory-data-analysis-eda-in-python)
+
+#### Blogs
+
+- [Step-by-Step Exploratory Data Analysis (EDA) Using Python](https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/)
+
 
 ### Data Visualization and Tools
 Content about Data Visualization and Tools...
