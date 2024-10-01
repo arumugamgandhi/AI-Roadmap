@@ -276,7 +276,20 @@ Basics to Advanced learning concepts
 - [Vision Tutorial Repository](https://github.com/graykode/vision-tutorial)
 
 ### Reinforcement Learning
-Content about Reinforcement Learning...
+
+#### Free Course
+
+- [Introduction to Reinforcement Learning (YouTube Video)](https://www.youtube.com/watch?v=Mut_u40Sqz4)
+
+#### Blogs
+
+- [Reinforcement Learning Overview](https://www.ibm.com/topics/reinforcement-learning)
+- [What is Reinforcement Learning?](https://aws.amazon.com/what-is/reinforcement-learning/#:~:text=Reinforcement%20learning%20(RL)%20is%20a,use%20to%20achieve%20their%20goals.)
+
+#### Sample Code Repositories
+
+- [Reinforcement Learning Tutorials](https://github.com/tsmatz/reinforcement-learning-tutorials)
+- [Denny Britz's Reinforcement Learning Repository](https://github.com/dennybritz/reinforcement-learning)
 
 ### Generative AI and LLMs
 Content about Generative AI and LLMs
