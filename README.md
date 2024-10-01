@@ -260,7 +260,20 @@ Basics to Advanced learning concepts
 - [NLP in Python Tutorial](https://github.com/adashofdata/nlp-in-python-tutorial)
 
 ### Computer Vision
-Content about Computer Vision...
+
+#### Free Courses
+
+- [Kaggle Computer Vision Course](https://www.kaggle.com/learn/computer-vision)
+- [YouTube Video: Introduction to Computer Vision](https://www.youtube.com/watch?v=01sAkU_NvOY)
+
+#### Blogs
+
+- [Comprehensive Guide to Computer Vision Resources](https://medium.com/@BH_Chinmay/comprehensive-guide-top-computer-vision-resources-all-in-one-blog-b55df920d964)
+
+#### Sample Code Repositories
+
+- [Computer Vision Tutorial](https://github.com/krishnaik06/Computer-Vision-Tutorial)
+- [Vision Tutorial Repository](https://github.com/graykode/vision-tutorial)
 
 ### Reinforcement Learning
 Content about Reinforcement Learning...
