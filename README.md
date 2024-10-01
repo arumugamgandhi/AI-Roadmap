@@ -106,7 +106,32 @@ Basics to Advanced learning concepts
 - [Python for Data Science](https://www.scaler.com/topics/course/python-for-data-science/)
 
 ### Basic Mathematics for AI
-Content about Basic Mathematics for AI...
+
+#### Main Topics to Cover
+
+- **Linear Algebra**
+- **Probability**
+- **Statistics**
+- **Basic Calculus**
+
+#### Free Course
+
+- **Mathematics for Machine Learning**  
+  [Free Course](https://www.scaler.com/topics/course/mathematics-for-machine-learning-free)
+
+#### Blogs
+
+- [Detailed Maths Topics in Machine Learning](https://medium.com/enjoy-algorithm/detailed-maths-topics-in-machine-learning-ca55cd537709)
+- [Calculus for Machine Learning and Deep Learning](https://medium.com/@maqboolthoufeeq.t/day-2-100daysml-dl-withmtt-calculus-for-machine-learning-and-deep-learning-d2fee2b3b785)
+
+#### Sample Code Repositories
+
+- [Probability and Statistics Code](https://github.com/DataForScience/Probability-And-Statistics)
+- [Intro to Linear Algebra Notebook](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/1-intro-to-linear-algebra.ipynb)
+- [Probability Notebook](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/5-probability.ipynb)
+- [Statistics Notebook](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/6-statistics.ipynb)
+- [Calculus I Notebook](https://github.com/jonkrohn/ML-foundations/blob/master/notebooks/3-calculus-i.ipynb)
+
 
 ### Exploratory-Data-Analysis
 Content about Exploratory Data Analysis...
