@@ -1,5 +1,5 @@
 # AI-Roadmap
-Basics to Advanced learning concepts
+Basics to Advanced Learning Concepts
 
 ## Topics
 
@@ -17,6 +17,7 @@ Basics to Advanced learning concepts
 - [Computer Vision](#computer-vision)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Generative AI and LLMs](#generative-ai-and-llms)
+- [Additional Learnings](#additional-learnings)
 
 ## Detailed Topics
 
@@ -308,3 +309,19 @@ Basics to Advanced learning concepts
 #### Sample Code Repository
 
 - [Generative AI with LLMs](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs)
+
+### Additional Learnings
+
+#### Flask / FastAPI for Web API Development
+
+- [YouTube Playlist: Flask / FastAPI](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+- [YouTube Video: Flask / FastAPI Overview](https://www.youtube.com/watch?v=7t2alSnE2-I)
+
+#### Git for Version Control
+
+- [YouTube Playlist: Git for Version Control](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
+
+#### SQL for Database Operations
+
+- [YouTube Video: SQL for Database Operations](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+
