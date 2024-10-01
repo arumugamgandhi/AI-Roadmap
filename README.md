@@ -173,10 +173,23 @@ Basics to Advanced learning concepts
 
 
 ### Machine Learning and Algorithms
-Content about Machine Learning and Algorithms...
 
 #### Supervised Learning
-Content about Supervised Learning...
+
+#### Free Courses
+
+- **Supervised Machine Learning Course**  
+  [Free Course](https://www.scaler.com/topics/course/free-supervised-learning-course/)
+
+#### Blogs
+
+- [Supervised Machine Learning](https://www.datacamp.com/blog/supervised-machine-learning)
+- [Supervised Learning Guide](https://serokell.io/blog/supervised-learning-guide)
+
+#### Sample Code Repositories
+
+- [Regression Sample Code](https://github.com/microsoft/ML-For-Beginners/tree/main/2-Regression)
+- [Classification Sample Code](https://github.com/microsoft/ML-For-Beginners/tree/main/4-Classification)
 
 #### Unsupervised Learning
 Content about Unsupervised Learning...
